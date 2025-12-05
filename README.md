@@ -1,3 +1,8 @@
+![cat_pic](pic.jpg)
+
+
+<------------------------------------->
+
 - 👋 Hi, I’m @PikaBanan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,4 +11,4 @@
 - 😄 Ponos: ...
 - ⚡ Fun fact: ...
 
-![cat_pic](pic.jpg)
+<------------------------------------->
